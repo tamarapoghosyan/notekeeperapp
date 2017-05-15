@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Note Keeper App</string>
+    <string name="firstname">FirstName</string>
+    <string name="enter_your_firstname">Enter your firstname</string>
+    <string name="lastname">LastName</string>
+    <string name="enter_your_lastname">Enter your lastname</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="username">Username</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="password">Password</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="confirm_your_password">Confirm your password</string>
+    <string name="gender">Gender</string>
+    <string name="male">MALE</string>
+    <string name="female">FEMALE</string>
+    <string name="age">Age</string>
+    <string name="enter_your_age">Enter your age</string>
+    <string name="register">REGISTER</string>
 </resources>
